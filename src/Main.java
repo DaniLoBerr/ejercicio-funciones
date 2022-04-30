@@ -33,7 +33,7 @@ class Coche {
     public int puertas = 3;
 
     public void SumarPuerta(){
-        
+
         this.puertas++;
     }
 
